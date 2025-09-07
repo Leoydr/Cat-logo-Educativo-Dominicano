@@ -33,7 +33,7 @@ El **Catálogo Educativo Dominicano** no pretende ser algo complejo ni cerrado, 
 👉 Si logramos que un joven se informe mejor y encuentre motivación para continuar sus estudios, el proyecto habrá cumplido su propósito.  
 
 ## 📸 Capturas del proyecto  
-![Uploading image.png…]()
+[![Uploading image.png…]()](https://github.com/Leoydr/Cat-logo-Educativo-Dominicano)
 
 ## ⚙️ Tecnologías utilizadas  
 - [x] HTML  
