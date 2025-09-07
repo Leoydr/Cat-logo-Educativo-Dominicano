@@ -33,12 +33,7 @@ El **Catálogo Educativo Dominicano** no pretende ser algo complejo ni cerrado, 
 👉 Si logramos que un joven se informe mejor y encuentre motivación para continuar sus estudios, el proyecto habrá cumplido su propósito.  
 
 ## 📸 Capturas del proyecto  
-> Aquí puedes ir colocando las imágenes del proyecto.  
-
-Ejemplo de estructura:  
-
-- **Vista principal**
-- file:///C:/T%C3%A9cnico%20en%20Programaci%C3%B3n%20de%20P%C3%A1ginas%20Web/M%C3%B3dulo%204%20-%20Control%20de%20Versiones/Cat-logo-Educativo-Dominicano/Tped.html
+![Uploading image.png…]()
 
 ## ⚙️ Tecnologías utilizadas  
 - [x] HTML  
