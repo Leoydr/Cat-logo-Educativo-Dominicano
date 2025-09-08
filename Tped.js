@@ -44,7 +44,7 @@ const instituciones = [
   },
   {
     nombre: "UASD",
-    descripcion: "Portal oficial de UASD. Formación académica y técnica en República Dominicana.",
+    descripcion: "La Universidad Autónoma de Santo Domingo (UASD) es la primera universidad del continente americano, fundada en 1538. Ofrece formación académica en diversas áreas del conocimiento a nivel nacional e internacional.",
     enlace: "https://www.google.com/search?q=UASD",
     logo: "UASD.png"
   },
