@@ -14,6 +14,8 @@ Este proyecto busca ser una **herramienta sencilla y accesible**, donde cualquie
 - Facilitar que los estudiantes comparen programas y tomen decisiones mejor informadas.  
 - Motivar a quienes aún no tienen claro si estudiar después del bachillerato, mostrando las opciones que tienen cerca.  
 - Ofrecer una plataforma fácil de consultar desde cualquier dispositivo, incluso mediante **códigos QR** en los liceos.  
+## Adaptabilidad
+Un sitio web debe contar con la capacidad de adaptarse a los equipos móviles, como Smartphones y tablets. Es recomendable que las universidades tengan una versión móvil de su página para alcanzar un público joven e impulsarlos a seguir estudiando para formar su futuro. 
 
 ## 👥 ¿A quiénes puede ayudar?  
 - A estudiantes de educación media que se preparan para dar el siguiente paso.  
