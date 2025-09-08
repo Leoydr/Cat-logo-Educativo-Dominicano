@@ -1,0 +1,15 @@
+<header>
+  <h1>📚 Catálogo Educativo Dominicano</h1>
+  <p>Explora los principales portales educativos y universidades del país</p>
+  
+  <!-- Barra de búsqueda -->
+  <input type="text" id="buscador" placeholder="🔎 Buscar institución..." />
+</header>
+
+<main id="catalogo">
+  <!-- Tarjetas dinámicas -->
+</main>
+
+<footer>
+  <p>© 2025 Catálogo Educativo Dominicano | Hecho con ❤️ y Git</p>
+</footer>
